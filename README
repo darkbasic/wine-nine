@@ -1,0 +1,2 @@
+This overlay allows you to use the latest version of wine with gallium-nine patches: https://wiki.ixit.cz/d3d9
+NOTE: Run winecfg and select Graphics tab: in 3D Acceleration group select Prefer native Direct3D 9.
